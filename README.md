@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Supriyank-V
-- 👀 I’m interested in Web Development, Game Development and Machine Learning
+- 👀 I’m interested in Web Development, Game Development
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on React/Python/Game Projects
 - 📫 How to reach me supriyank.vish@hotmail.com and https://www.linkedin.com/in/supriyank/
